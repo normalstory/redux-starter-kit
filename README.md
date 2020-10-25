@@ -7,5 +7,5 @@
 ## 터미널 가이드
 * git clone https://github.com/vlpt-playground/redux-starter-kit.git
 * cd .\redux-starter-kit\
-* yarn add redux-logger redux-pender
+* yarn add axios redux-logger redux-pender
 * yarn start
